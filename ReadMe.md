@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Front end <br>Estou a procura de Estágio <br>Estou disposto a me dedicar 100%<br>faço faculdade de ADS<br>Tenho conhecimento de HTML5 e CSS3 <br>Estou focado em Java Script <br><br> 
+Sou estudante de desenvolvimento web <br>Estou a procura de Estágio <br>Estou disposto a me dedicar 100%<br>faço faculdade de ADS<br>Tenho conhecimento de HTML5,CSS3 e javascript <br>Estou focado em Java Script <br><br> 
 
 
 ## 🌐 Socials:
