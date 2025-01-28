@@ -1,5 +1,8 @@
 # 💫 About Me:
-Sou estudante de desenvolvimento web <br>Estou a procura de Estágio <br>Estou disposto a me dedicar 100%<br>faço faculdade de ADS<br>Tenho conhecimento de HTML5,CSS3 e javascript <br>Estou focado em Java Script <br><br> 
+Olá sou o Wellington faço o quarto período de TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e para aumentar meus conhecimentos de HTML, CSS e JAVASCRIPT iniciai também o curso da Codeboost.
+Tenho um bom conhecimento de Adobe Illustrator, Trello e Github.
+Passei quase três anos comando uma equipe de vendas em uma Private Label e com isso ganhei grande experiência com trabalho em equipe. 
+
 
 
 ## 🌐 Socials:
