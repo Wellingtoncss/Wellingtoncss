@@ -1,8 +1,11 @@
 # 💫 About Me:
-Olá sou o Wellington faço o quarto período de TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS e para aumentar meus conhecimentos de HTML, CSS e JAVASCRIPT iniciai também o curso da Codeboost.
-Tenho um bom conhecimento de Adobe Illustrator, Trello e Github.
-Passei quase três anos comando uma equipe de vendas em uma Private Label e com isso ganhei grande experiência com trabalho em equipe. 
-
+Sou formado em Análise e Desenvolvimento de Sistemas e 
+tenho foco em Desenvolvimento Web Front-End. Possuo experiência 
+com HTML, CSS, JavaScript e Illustrator, desenvolvendo projetos pessoais e 
+aplicando boas práticas de desenvolvimento e versionamento com 
+GitHub. Busco minha primeira oportunidade como desenvolvedor para 
+evoluir profissionalmente e contribuir com soluções web modernas e 
+eficientes.
 
 
 ## 🌐 Socials:
