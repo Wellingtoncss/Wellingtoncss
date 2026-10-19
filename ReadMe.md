@@ -1,11 +1,15 @@
 # 💫 About Me:
-Sou formado em Análise e Desenvolvimento de Sistemas e 
-tenho foco em Desenvolvimento Web Front-End. Possuo experiência 
-com HTML, CSS, JavaScript e Illustrator, desenvolvendo projetos pessoais e 
-aplicando boas práticas de desenvolvimento e versionamento com 
-GitHub. Busco minha primeira oportunidade como desenvolvedor para 
-evoluir profissionalmente e contribuir com soluções web modernas e 
-eficientes.
+Desenvolvedor Web Júnior com cerca de dois anos de experiência em projetos pessoais
+e trabalhos freelancer, atuando no desenvolvimento de sites, landing pages,
+manutenção, correção de bugs e melhorias em aplicações web.
+Possuo conhecimentos em HTML, CSS, JavaScript e React, além de experiência com
+Adobe Illustrator e design gráfico.
+Também tenho experiência na criação de logotipos, identidades visuais e vetorização de
+artes, unindo conhecimentos de desenvolvimento e design para criar interfaces
+funcionais e visualmente atrativas.
+Possuo projetos publicados no GitHub e meu objetivo é contribuir com a equipe, aplicar
+meus conhecimentos em projetos reais, aprender com profissionais mais experientes e
+evoluir constantemente minhas habilidades técnicas.
 
 
 ## 🌐 Socials:
